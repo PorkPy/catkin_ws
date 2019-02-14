@@ -1,0 +1,8 @@
+prefix=/home/ur5/catkin_ws2/install
+
+Name: simple_message
+Description: Description of simple_message
+Version: 0.5.1
+Cflags: -I/home/ur5/catkin_ws2/install/include
+Libs: -L/home/ur5/catkin_ws2/install/lib -lsimple_message_dummy
+Requires: roscpp industrial_msgs

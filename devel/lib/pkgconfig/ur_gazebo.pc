@@ -1,0 +1,8 @@
+prefix=/home/ur5/catkin_ws2/devel
+
+Name: ur_gazebo
+Description: Description of ur_gazebo
+Version: 1.2.1
+Cflags: 
+Libs: -L/home/ur5/catkin_ws2/devel/lib 
+Requires: 

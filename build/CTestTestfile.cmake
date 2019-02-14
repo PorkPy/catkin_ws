@@ -1,0 +1,35 @@
+# CMake generated Testfile for 
+# Source directory: /home/ur5/catkin_ws2/src
+# Build directory: /home/ur5/catkin_ws2/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs(gtest)
+subdirs(iai_kinect2/iai_kinect2)
+subdirs(industrial_core/industrial_core)
+subdirs(industrial_core/industrial_deprecated)
+subdirs(industrial_core/industrial_msgs)
+subdirs(universal_robot/universal_robot)
+subdirs(universal_robot/ur_bringup)
+subdirs(universal_robot/ur_description)
+subdirs(universal_robot/ur_gazebo)
+subdirs(universal_robot/ur_msgs)
+subdirs(beginner_tutorials)
+subdirs(industrial_core/simple_message)
+subdirs(iai_kinect2/kinect2_registration)
+subdirs(iai_kinect2/kinect2_bridge)
+subdirs(iai_kinect2/kinect2_calibration)
+subdirs(iai_kinect2/kinect2_viewer)
+subdirs(universal_robot/ur_driver)
+subdirs(ur_modern_driver)
+subdirs(industrial_core/industrial_utils)
+subdirs(industrial_core/industrial_robot_client)
+subdirs(industrial_core/industrial_robot_simulator)
+subdirs(industrial_core/industrial_trajectory_filters)
+subdirs(universal_robot/ur10_dualarm_moveit_config)
+subdirs(universal_robot/ur10_moveit_config)
+subdirs(universal_robot/ur3_moveit_config)
+subdirs(universal_robot/ur5_moveit_config)
+subdirs(universal_robot/ur_kinematics)
+subdirs(moveit_tutorials)
+subdirs(panda_moveit_config)

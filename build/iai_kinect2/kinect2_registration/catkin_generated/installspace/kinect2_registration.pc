@@ -1,0 +1,8 @@
+prefix=/home/ur5/catkin_ws2/install
+
+Name: kinect2_registration
+Description: Description of kinect2_registration
+Version: 0.0.1
+Cflags: -I/home/ur5/catkin_ws2/install/include
+Libs: -L/home/ur5/catkin_ws2/install/lib -lkinect2_registration
+Requires: 

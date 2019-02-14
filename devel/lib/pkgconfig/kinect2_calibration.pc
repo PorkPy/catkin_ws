@@ -1,0 +1,8 @@
+prefix=/home/ur5/catkin_ws2/devel
+
+Name: kinect2_calibration
+Description: Description of kinect2_calibration
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/ur5/catkin_ws2/devel/lib 
+Requires: 

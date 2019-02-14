@@ -1,0 +1,8 @@
+prefix=/home/ur5/catkin_ws2/install
+
+Name: ur_driver
+Description: Description of ur_driver
+Version: 1.2.1
+Cflags: -I/home/ur5/catkin_ws2/install/include
+Libs: -L/home/ur5/catkin_ws2/install/lib 
+Requires: dynamic_reconfigure

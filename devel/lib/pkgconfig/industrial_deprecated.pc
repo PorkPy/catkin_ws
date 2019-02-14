@@ -1,0 +1,8 @@
+prefix=/home/ur5/catkin_ws2/devel
+
+Name: industrial_deprecated
+Description: Description of industrial_deprecated
+Version: 0.5.1
+Cflags: 
+Libs: -L/home/ur5/catkin_ws2/devel/lib 
+Requires: 

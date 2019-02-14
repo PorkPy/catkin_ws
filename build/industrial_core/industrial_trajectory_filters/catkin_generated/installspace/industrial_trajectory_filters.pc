@@ -1,0 +1,8 @@
+prefix=/home/ur5/catkin_ws2/install
+
+Name: industrial_trajectory_filters
+Description: Description of industrial_trajectory_filters
+Version: 0.5.1
+Cflags: -I/home/ur5/catkin_ws2/install/include
+Libs: -L/home/ur5/catkin_ws2/install/lib -lindustrial_trajectory_filters
+Requires: moveit_ros_planning trajectory_msgs

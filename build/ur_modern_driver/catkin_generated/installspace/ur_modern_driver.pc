@@ -1,0 +1,8 @@
+prefix=/home/ur5/catkin_ws2/install
+
+Name: ur_modern_driver
+Description: Description of ur_modern_driver
+Version: 0.0.1
+Cflags: -I/home/ur5/catkin_ws2/install/include
+Libs: -L/home/ur5/catkin_ws2/install/lib -lur_hardware_interface
+Requires: hardware_interface controller_manager actionlib control_msgs geometry_msgs roscpp sensor_msgs trajectory_msgs ur_msgs

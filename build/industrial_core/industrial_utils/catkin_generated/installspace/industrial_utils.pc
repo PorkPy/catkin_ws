@@ -1,0 +1,8 @@
+prefix=/home/ur5/catkin_ws2/install
+
+Name: industrial_utils
+Description: Description of industrial_utils
+Version: 0.5.1
+Cflags: -I/home/ur5/catkin_ws2/install/include
+Libs: -L/home/ur5/catkin_ws2/install/lib -lindustrial_utils
+Requires: roscpp urdf
